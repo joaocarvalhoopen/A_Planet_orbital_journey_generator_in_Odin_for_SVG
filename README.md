@@ -8,6 +8,10 @@ This little program will generate a animation of the planets orbital journey fro
 width="500" height="500"
 ```
 
+## Generated SVG
+
+![./solar_orbits_log.svg](./solar_orbits_log.svg)
+
 ## How to compile and run
 
 ```
